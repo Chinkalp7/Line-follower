@@ -19,7 +19,7 @@ unsigned int expose = 1000;   //int expose = 7390; // 8333uSec ie 1/120th second
 unsigned long uptime, downtime;
 
 // For Motor
-
+//testing
 #define pmos 11
 #define nmos 7
 #define max_speed 50 //20 
